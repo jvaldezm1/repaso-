@@ -2,7 +2,7 @@
 #include "Archivo.h"
 
 
-using namespace std;
+using namespace std;//perroooo
 
 int main() {
   Leertexto ("C:\\Users\\miran\\OneDrive\\Escritorio\\datos.txt");
