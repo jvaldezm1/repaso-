@@ -1,0 +1,3 @@
+C:/Users/miran/OneDrive/Escritorio/practica 2/cmake-build-debug/CMakeFiles/practica_2.dir
+C:/Users/miran/OneDrive/Escritorio/practica 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/miran/OneDrive/Escritorio/practica 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
